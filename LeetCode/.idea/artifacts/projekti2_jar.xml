@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="projekti2:jar">
+    <output-path>$USER_HOME$/Desktop/Detyrat_Me_Loop</output-path>
+    <root id="archive" name="projekti2.jar">
+      <element id="module-output" name="projekti2" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$USER_HOME$/Desktop/Detyrat_Me_Loop/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
