@@ -1,1 +1,1 @@
-# LeetCode-Problems---Solving-Jorney
+# LeetCode Problems-Solving Jorney
